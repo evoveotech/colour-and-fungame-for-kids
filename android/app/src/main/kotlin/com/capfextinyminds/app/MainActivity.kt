@@ -1,4 +1,4 @@
-package com.example.tiny_minds
+package com.capfextinyminds.app
 
 import android.os.Bundle
 import androidx.core.view.WindowCompat
